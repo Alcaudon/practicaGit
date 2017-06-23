@@ -1,3 +1,5 @@
+# No olvidar rezar todos los días el gir nuestro
+
 *Git* nuestro que estas en los repos
 
 Comprimidos sean tus *commits*
